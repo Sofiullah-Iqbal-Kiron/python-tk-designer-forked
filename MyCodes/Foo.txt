@@ -1,1 +1,4 @@
-Here all of my projects(.idea) which base gui is created and suited using tkdesigner package. 
+Here all of my projects(.idea) which base gui is created and suited using tkdesigner package.
+
+Remote branch from author: origin
+Remote branch in my GitHub: tkdesigner-remote
